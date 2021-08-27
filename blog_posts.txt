@@ -1,11 +1,11 @@
 `
   <div class="card bg-secondary text-white">
     <div class="card-header">
-      <h5 class="card-title">New Youtube and Twitch Channels</h5>
+      <h5 class="card-title">New Youtube, Twitch, and Discord!</h5>
     </div>
     <div class="card-body">
       <p class="card-text">
-        I've created a couple of new channels for additional content I'll be creating! Subscribe to the new Youtube channel, follow me on Twitch, don't forget  to opt in for notifications so you know when something new has been added or I've gone live!
+        I've created a couple of new channels for additional content I'll be creating! I've also created a Discord for voice chat and general discussion. Subscribe to the new Youtube channel, follow me on Twitch, join the Discord Server, and don't forget  to opt in for notifications so you know when something new has been added or I've gone live!
       </p>
       <div class="btn-group ">
         <a class="btn btn-dark" href="https://www.youtube.com/channel/UCHtNcF6L5hiC8tUyXgNOEbg">Youtube Gaming</a>
