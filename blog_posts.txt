@@ -1,0 +1,15 @@
+`
+  <div class="card bg-secondary text-white">
+    <div class="card-header">
+      <h5 class="card-title">New Site!!!</h5>
+    </div>
+    <div class="card-body">
+      <p class="card-text">I've finally pulled the trigger and started developing my new website and YouTube Channel! It's really basic for the time being but it will be slowly fleshed out as I figure everything out. Keep your eyes open for new
+        content!</p>
+      <a class="btn btn-dark" href="https://www.youtube.com/channel/UCCaeQsz8SuI2E2rrpE1mA4Q">My YouTube Channel</a>
+    </div>
+    <div class="card-footer">
+      Posted 4-11-2021
+    </div>
+  </div>
+`
