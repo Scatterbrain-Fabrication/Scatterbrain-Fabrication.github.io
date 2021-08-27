@@ -49,30 +49,16 @@ function print_blog() {
 
 function print_about() {
   $(function() {
-    $("#content").hide().html(`
-      <div class="card bg-secondary text-white">
-        <div class="card-body">
-          <p class="card-text">Scatterbrain Fabrication was founded in order to give a crazy nerd an outlet for his creativity. Still in its infancy, it aims to output content and creations that are both entertaining and beautiful. We specialize in prototyping products and creating cosplay weapons, armor, and the like. Hopefully this becomes more than just a webpage and YouTube channel. We aim to expand our viewers' knowledge and hopefully give them a few laughs along the way. Like and subscribe to our channel!</p>
-        </div>
-        <div class="card-footer">
-          <div class="row justify-content-around">
-            <a class="btn btn-dark" href="https://www.youtube.com/channel/UCCaeQsz8SuI2E2rrpE1mA4Q">YouTube Channel</a>
-            <a class="btn btn-dark" href="mailto:mail@scatterbrainfabrication.com">Email</a>
-          </div>
-        </div>
-      </div>
-    `).fadeIn();
+    $.get('about_section.txt', function(data) {
+       $("#content").hide().html(data).fadeIn();
+    }, 'text');
   });
 }
 
 function print_projects() {
   $(function() {
-    $("#content").hide().html(`
-      <div class="card bg-secondary text-white">
-        <div class="card-body">
-          <p class="card-text">Coming Soon</p>
-        </div>
-      </div>
-    `).fadeIn();
+    $.get('project_section.txt', function(data) {
+       $("#content").hide().html(data).fadeIn();
+    }, 'text');
   });
 }

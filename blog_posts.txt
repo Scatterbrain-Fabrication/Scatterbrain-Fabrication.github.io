@@ -12,4 +12,19 @@
       Posted 4-11-2021
     </div>
   </div>
+  <br>
+  <div class="card bg-secondary text-white">
+    <div class="card-header">
+      <h5 class="card-title">New Youtube and Twitch Channels</h5>
+    </div>
+    <div class="card-body">
+      <p class="card-text">
+
+      </p>
+      <a class="btn btn-dark" href="https://www.youtube.com/channel/UCCaeQsz8SuI2E2rrpE1mA4Q">My YouTube Channel</a>
+    </div>
+    <div class="card-footer">
+      Posted 8-26-2021
+    </div>
+  </div>
 `

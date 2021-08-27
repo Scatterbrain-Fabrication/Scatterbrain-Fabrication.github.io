@@ -1,0 +1,7 @@
+`
+  <div class="card bg-secondary text-white">
+    <div class="card-body">
+      <p class="card-text">Coming Soon</p>
+    </div>
+  </div>
+`
