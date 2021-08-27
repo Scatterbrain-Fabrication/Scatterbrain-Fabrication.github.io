@@ -1,6 +1,25 @@
 `
   <div class="card bg-secondary text-white">
     <div class="card-header">
+      <h5 class="card-title">New Youtube and Twitch Channels</h5>
+    </div>
+    <div class="card-body">
+      <p class="card-text">
+        I've created a couple of new channels for additional content I'll be creating! Subscribe to the new Youtube channel, follow me on Twitch, don't forget  to opt in for notifications so you know when something new has been added or I've gone live!
+      </p>
+      <div class="btn-group ">
+        <a class="btn btn-dark" href="https://www.youtube.com/channel/UCHtNcF6L5hiC8tUyXgNOEbg">Youtube Gaming</a>
+        <a class="btn btn-dark" href="https://twitch.tv/scatterbrain_games">Twitch Gaming</a>
+        <a class="btn btn-dark" href="https://discord.gg/EeaVkUCV4e">Discord</a>
+      </div>
+    </div>
+    <div class="card-footer">
+      Posted 8-26-2021
+    </div>
+  </div>
+  <br>
+  <div class="card bg-secondary text-white">
+    <div class="card-header">
       <h5 class="card-title">New Site!!!</h5>
     </div>
     <div class="card-body">
@@ -12,19 +31,5 @@
       Posted 4-11-2021
     </div>
   </div>
-  <br>
-  <div class="card bg-secondary text-white">
-    <div class="card-header">
-      <h5 class="card-title">New Youtube and Twitch Channels</h5>
-    </div>
-    <div class="card-body">
-      <p class="card-text">
 
-      </p>
-      <a class="btn btn-dark" href="https://www.youtube.com/channel/UCCaeQsz8SuI2E2rrpE1mA4Q">My YouTube Channel</a>
-    </div>
-    <div class="card-footer">
-      Posted 8-26-2021
-    </div>
-  </div>
 `
